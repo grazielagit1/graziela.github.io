@@ -1,0 +1,17 @@
+body{
+    background-color: rgba(255, 185, 249, 0.849);
+}
+h1 {
+    font-size: 35pt;
+    color: blueviolet;
+}
+h2 {
+    color:palevioletred;
+    font-style: bold;
+     font-size: larger;
+}
+h3 {
+    color: palevioletred;
+    font-style: bold;
+    font-size: larger;
+}
